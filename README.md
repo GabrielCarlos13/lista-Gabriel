@@ -1,4 +1,6 @@
+
+
 #EXTM3U
 
-#EXTINF:-1tvg-logo=""group-title=" ESPORTES", TNT
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1tvg-logo=""group-title="FILMES",A&E
+https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8
